@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Sarah
 - 🌱 I’m currently  an MSc Data Science conversion student learning Python, SQL and all things Data. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 💞️ Welcome to my portfoilo 
 
 Check out my projects HERE
 <!---
