@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarah
-- 🌱 I’m currently  an MSc Data Science conversion student learning Python, SQL and all things Data. 
+- 🌱 I’m currently  an MSc Data Science conversion student learning Python, SQL,R and all things Data. 
 - 💞️ Welcome to my portfoilo 
 
 Check out my projects HERE
